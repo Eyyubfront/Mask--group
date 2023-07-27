@@ -1,0 +1,562 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .head {
+    color: darkorange;
+  }
+  
+  .head1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header {
+    background-image: url("Rectangle\ 182.png");
+    height: 329px;
+  }
+ 
+  .leave {
+    font-size: 40px;
+    margin-top: 153px;
+    color: aliceblue;
+    text-align: center;
+}
+  
+.container{
+    padding: 30px;
+  }
+
+  .inputcards{
+    display: flex;
+    flex-direction: row;
+  margin-top: 70px;
+  justify-content: space-between;
+  padding: 115px;
+  }
+  
+  .montly{
+    font-size: 30px;
+  }
+  
+  .emailnp{
+    width: 189px;
+      height: 54px
+  }
+  
+  
+  .cribesubs{
+    background-color: #60b7fe;
+    color: #fff;
+    width: 200px;
+    height: 58px;
+  }
+
+  .linelong{
+    border-top: 5px solid darkgray;
+    margin: 0px;
+    margin-top: 11px;
+    
+  }
+
+  .footers1all{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(63, 58, 58);
+    color:darkgray;
+  }
+  
+  .footers4{
+    margin-left: 167px
+  }
+  
+  .inf{
+   color: darkgray;
+  }
+  
+  .redx{
+    color: darkgray;
+  }
+  
+  .linksrow{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    gap: 5px;
+  }
+  
+  .footers3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 155px;
+  }
+  
+  .footers4{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .footers2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .footers1{
+    margin-top: 10px;
+  }
+  .lnlog{
+    border-top: 5px solid darkgray;
+    margin: 0px;
+    margin-top: 15px;
+  }
+  
+  
+  .footerscard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(63, 58, 58);
+  
+  }
+  
+  .populicons{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+  }
+  
+  .finisline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    padding: 20px;
+  
+  }
+
+  .redbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 27px;
+    align-items: center;
+    font-size: 18px;
+  }
+  
+  .nintn{
+    color:blue;
+  }
+  
+  
+  
+  
+.redexplore{
+    display: flex;
+    flex-direction: row;
+    gap: 185px;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.exptext{
+    font-size: 35px;
+}
+
+.abouttext{
+    color: orangered;
+}
+  
+  .america{
+    border-radius: 5%;
+    padding: 10px 15px 10px;
+    border: 1px solid;
+    width: 105px;
+  }
+  
+
+  .countrycard{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    justify-content: center;
+    margin-top: 42px;
+  }
+  
+  .friendclubs{
+    background-image: url("Group\ 72.png");
+    width: 100%;
+    height: 243px;
+    margin-top: 250px;
+    background-repeat: no-repeat;
+}
+
+.folow{
+    border: none;
+    background-color: #60b7fe;
+    color: #fff;
+    margin-left: 600px;
+    margin-top: 106px;
+    padding: 10px;
+}
+
+
+.list {
+    border-left: 5px solid orangered;
+    margin: 0px;
+    margin-top: 11px;
+    padding: 4px;
+    color: orange
+    
+  }
+  
+  .gorgcard{
+display: flex;
+flex-direction: row;
+align-items: center;
+ }
+
+ .comnt{
+    display: flex;
+flex-direction: row;
+align-items: center;
+ }
+  
+
+
+ .lin{
+    border-top: 2px solid darkgray;
+    margin: 0px;
+    margin-top: 11px;
+ }
+    
+ .Tbliscard{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+        width: 200px;
+      padding: 20px;
+      box-shadow: 8px 11px 20px 0px #dddd;
+      z-index: -10000;
+    background-color: wheat;
+    position:absolute;
+    margin-top: 166px;
+    margin-left: 2px
+ }
+
+ .directn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 23px;
+    color: orange;
+ }
+
+ .finding{
+    margin-top: 15px;
+ }
+
+ .tblisphoto{
+    background-image: url("Rectangle\ 372.png");
+    background-repeat: no-repeat;
+    width: 249px;
+    height: 221px;
+    position: relative;
+    z-index: 10000;
+    margin-top: 46px;
+ }
+
+
+
+ .Tbliscard2{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto2{
+  background-image: url("Rectangle\ 373.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+
+.Tbliscard3{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto3{
+  background-image: url("Rectangle\ 222.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+.tblisrow{
+flex-direction: row;
+justify-content: center;
+gap: 20px;
+align-items: center;
+  display: flex;
+}
+
+
+.Tbliscard4{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto4{
+  background-image: url("Rmm222.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+.Tbliscard5{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto5{
+  background-image: url("Rectangle\ 372\ \(1\).png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+.Tbliscard6{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto6{
+  background-image: url("Rectangle\ 372\ \(2\).png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+.Tbliscard6{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto6{
+  background-image: url("ee222.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+.tblisrow2{
+  flex-direction: row;
+justify-content: center;
+gap: 20px;
+align-items: center;
+  display: flex;
+  margin-top: 222px;
+}
+
+
+
+
+
+
+.Tbliscard7{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto7{
+  background-image: url("QQ22.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+
+
+.Tbliscard8{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto8{
+  background-image: url("ll33.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+
+
+.Tbliscard9{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+      width: 200px;
+    padding: 20px;
+    box-shadow: 8px 11px 20px 0px #dddd;
+    z-index: -10000;
+  background-color: wheat;
+  position:absolute;
+  margin-top: 166px;
+  margin-left: 2px
+}
+
+
+
+.tblisphoto9{
+  background-image: url("ss11.png");
+  background-repeat: no-repeat;
+  width: 249px;
+  height: 221px;
+  position: relative;
+  z-index: 10000;
+  margin-top: 40PX;
+}
+
+.tblisrow3{
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+    display: flex;
+    margin-top: 222px;
+}
+
+
+.america:hover{
+  background-color: blue;
+}

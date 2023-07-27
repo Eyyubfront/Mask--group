@@ -1,0 +1,276 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .head {
+    color: darkorange;
+  }
+  
+  .head1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header {
+    background-image: url("pexels-tomas-anunziata-3876407\ 1.png");
+    height: 329px;
+  }
+ 
+  .leave {
+    font-size: 40px;
+    margin-top: 153px;
+    color: aliceblue;
+    text-align: center;
+}
+  
+.container{
+    padding: 30px;
+  }
+
+  .redexplore{
+    display: flex;
+    flex-direction: row;
+    gap: 185px;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 129px;;
+}
+
+.exptext{
+    font-size: 35px;
+}
+
+.abouttext{
+    color: orangered;
+}
+
+
+
+.inputcards{
+    display: flex;
+    flex-direction: row;
+  margin-top: 70px;
+  justify-content: space-between;
+  padding: 115px;
+  }
+  
+  .montly{
+    font-size: 30px;
+  }
+  
+  .emailnp{
+    width: 189px;
+      height: 54px
+  }
+  
+  
+  .cribesubs{
+    background-color: #60b7fe;
+    color: #fff;
+    width: 200px;
+    height: 58px;
+  }
+
+  .linelong{
+    border-top: 5px solid darkgray;
+    margin: 0px;
+    margin-top: 11px;
+    
+  }
+
+  .footers1all{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(63, 58, 58);
+    color:darkgray;
+  }
+  
+  .footers4{
+    margin-left: 167px
+  }
+  
+  .inf{
+   color: darkgray;
+  }
+  
+  .redx{
+    color: darkgray;
+  }
+  
+  .linksrow{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    gap: 5px;
+  }
+  
+  .footers3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 155px;
+  }
+  
+  .footers4{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .footers2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .footers1{
+    margin-top: 10px;
+  }
+
+
+  .lnlog{
+    border-top: 5px solid darkgray;
+    margin: 0px;
+    margin-top: 15px;
+  }
+  
+  
+  .footerscard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(63, 58, 58);
+  
+  }
+  
+  .populicons{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+  }
+  
+  .finisline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    padding: 20px;
+  
+  }
+
+
+  
+  .redbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px;
+    align-items: center;
+    font-size: 18px;
+  }
+
+  .oneicon{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+  }
+  .twoicon{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+  }
+  .threeicon{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+  }
+
+  .threicons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 44px;
+    margin-left: 13px;
+  }
+
+
+  .peoplecards1{
+    box-shadow: 8px 11px 20px 0px #dddd;
+    border-radius: 10%;
+    width: 341px;
+    height: 381px;
+ 
+    
+  }
+
+  .empeople{
+    border-radius: 12%;
+    width: 344px;
+    height: 196px;
+  }
+
+  .extreme{
+    color: #fff;
+    background-color: #60b7fe;
+ 
+  }
+
+  .going{
+    height: 57px;
+    font-size: 21px;
+    margin-left: 12px;
+    margin-top: 23px;
+  }
+
+
+  .jaunr{
+    margin-left: 20px;
+  }
+
+
+  .peoplerowcards1{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+
+  .peoplerowcards2{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .peoplerowcards3{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .peopleorowcardsall{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+
+  .nintn{
+    color: blue;
+  }
